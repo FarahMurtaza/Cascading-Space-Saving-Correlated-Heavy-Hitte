@@ -34,7 +34,7 @@ Space-Saving is a streaming algorithm designed for identifying frequent items in
 To install and run this project, follow these steps:
 
 - Clone the repository: `git clone https://github.com/FarahMurtaza/Cascading-Space-Saving-Correlated-Heavy-Hitter`
-- Navigate to the project directory: `cd CSSCHH`
+- Navigate to the project directory: `cd Cascading-Space-Saving-Correlated-Heavy-Hitter-main`
 - Build the project: `make`
 - Run the executable: `./main`
 
